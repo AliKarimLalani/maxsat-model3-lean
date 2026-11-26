@@ -1,0 +1,2 @@
+import Model3MaxSAT.Main
+import Model3MaxSAT.HardConnected
